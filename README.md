@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Software Developer | Full-Stack | Cloud Engineer</b><br>
-  <sub>Building high-performance web apps using Node.js, React, PHP, MCP, n8n and AWS</sub>
+  <sub>Building high-performance web apps using Node.js, Python, React, PHP, MCP, n8n and AWS</sub>
 </p>
 
 ---
@@ -20,7 +20,7 @@ My passion lies in creating elegant, efficient, and reliable systems — from ba
 ### 🛠️ Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,php,aws,docker,mysql,mongodb,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,react,typescript,php,aws,docker,mysql,mongodb,html,css,git" />
 </p>
 
 ---
